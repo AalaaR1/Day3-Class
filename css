@@ -1,0 +1,49 @@
+body{
+	font-family: 'Press Start 2P', cursive;
+	background-color: black;
+}
+
+h1, h2{
+	color: white;
+}
+
+div{
+	width:100px;
+	height:100px;
+	float:left;
+	margin: 10px;
+}
+
+h6{
+	margin: 10px;
+}
+
+#hulk{
+	width:200px;
+	height:200px;
+	background-color: green;
+}
+
+#captainAmerica{
+	background-color: blue;
+}
+
+#blackWidow{
+	background-color: grey;
+}
+
+#hawkeye{
+	background-color: purple;
+}
+
+#ironMan{
+	background-color: red;
+}
+
+#thor{
+	background-color: yellow;
+}
+
+.center{
+	text-align: center;
+}
